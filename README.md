@@ -1,4 +1,4 @@
-# startingclojure
+# starting clojure
 
 Code from tutorial clojure
 Building a webapp with clojure
